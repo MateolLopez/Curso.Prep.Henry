@@ -1,0 +1,24 @@
+Variables: 
+    Una variable es un espacio de memoria con un nombre específico (escogido por el usuario)
+    al cual puede asignársele, o no, un valor.
+
+String: 
+    Un string es una cadena de caracteres. El string siempre será tratado como tal
+    independientemente de si dentro de sus caracteres se encuentran números, letras o incluso una operación matemática,
+    este siempre será reconocido como un string.
+
+Funcion: 
+    Las funciones son por así decirlo un programa más pequeño dentro del mismo.
+    Estas se crean y usan para desempeñar distintas tareas y tienen un identificador el 
+    cual podemos utilizar para llamarla y utilizarla cuantas veces sea necesario sin necesidad
+    de reescribir toda la función.
+
+Declaraciones If:
+    Un "if" es una herramienta que se utiliza para evaluar una condición. Si la condición es verdadera
+    se procederá con un bloque de código específico para esa situación, si no lo es, el programa tomará otro
+    rumbo de acción.
+
+Valores booleanos: 
+    Es un tipo de dato que representa sólo 2 valores, siendo 0=falso y 1=verdadero. 
+    Puede utilizarse para verificar la veracidad de una sentencia por ejemplo.
+    

@@ -1,0 +1,15 @@
+for:
+
+&&:
+    El doble ampersand se utiliza dentro de las condiciones para 
+    decir que, por ejemplo, condición A y Condición B deben cumplirse a la vez,
+    en resumen, el condicional && significa que 2 o más condiciones deben cumplirse juntas.
+
+||:
+    Este operador a diferencia del anterior se refiere a que una puede cumplirse y la otra no,
+    funciona de la misma forma que la palabra "o" en nuestro vocabulario, se puede cumplir una u otra sin 
+    necesidad de que ambas situaciones den verdadero.
+
+!:
+    El signo de excalamación se utiliza como negación, básicamente puedes utilizarlo para negar algo ubicandolo delante,
+    por ejemplo si dices que una variable sea !false, sería lo mismo que decir true.
