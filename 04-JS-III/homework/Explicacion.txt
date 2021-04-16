@@ -1,0 +1,3 @@
+Array:
+    Es una colección de elementos ordenados que no necesariamente son del mismo tipo.
+    Puede contener incluso arreglos dentro de sí mismo.
