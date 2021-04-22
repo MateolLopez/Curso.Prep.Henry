@@ -1,0 +1,12 @@
+Objetos:
+    Un objeto es similar a un arreglo en su distribución, sin embargo se le puede asignar nombre a cada posición además de su respectivo valor.
+
+Propiedades:
+    Las propiedades son lo que hacen al objeto un objeto, cada posición dentro del objeto es una propiedad.
+
+Métodos:
+    Un método es como una función pero ligada a un objeto.
+
+Bucle for…in
+
+Notación de puntos vs notación de corchetes

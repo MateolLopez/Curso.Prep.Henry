@@ -1,0 +1,5 @@
+prototype: 
+    El prototipo es una especie de objeto que contiene metodos y propiedades heredables.
+
+constructor:
+    el constructor es un método utilizado para crear un objeto en base a una clase.
