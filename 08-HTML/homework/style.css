@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+}
+
+h1{
+    color: #92b;
+}
+
+img{
+    width: 400px;
+}
+
+div{
+    text-align: center;
+    margin: auto;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: #92b;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+    border: 10px solid coral;
+}
